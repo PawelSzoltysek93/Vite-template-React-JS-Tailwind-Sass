@@ -3,6 +3,7 @@
 **Features:**
 - ⚡️ Vite
 - ⚛️ React
+- 🌐 JavaScript
 - 🎨 Tailwind CSS
 - 🔀 React Router
 - 💅 Sass
