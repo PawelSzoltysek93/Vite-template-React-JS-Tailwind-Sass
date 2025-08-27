@@ -1,4 +1,4 @@
-# My Vite React Template
+# Vite React Template
 
 **Features:**
 - ⚡️ Vite
